@@ -12,6 +12,11 @@ export default function Home() {
       <h2 className={styles.heading}>Routes</h2>
       <ul className={styles.routes}>
         <li>
+          <Link href="/">/</Link>
+          <span>This page</span>
+          <em>Public</em>
+        </li>
+        <li>
           <Link href="/signup">/signup</Link>
           <span>Create an account</span>
           <em>Public</em>

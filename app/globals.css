@@ -72,6 +72,10 @@ a {
   font: inherit;
 }
 
+.auth-form input::placeholder {
+  color: var(--muted);
+}
+
 .auth-form button {
   padding: 0.75rem;
   border: 0;
