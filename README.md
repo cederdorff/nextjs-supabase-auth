@@ -18,8 +18,8 @@ Følg [opgave 1 i opgaven](https://github.com/cederdorff/mdu-e25ixd/blob/main/un
 | 2 · Sign up | [opgave-02-sign-up](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-02-sign-up) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/main...opgave-02-sign-up) |
 | 3 · Log ind | [opgave-03-log-ind](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-03-log-ind) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-02-sign-up...opgave-03-log-ind) |
 | 4 · Profilen | [opgave-04-profil](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-04-profil) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-03-log-ind...opgave-04-profil) |
-| 5 · Flere beskyttede routes · ekstra | [opgave-05-flere-routes](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-05-flere-routes) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-04-profil...opgave-05-flere-routes) |
-| 6 · Login-status i headeren · ekstra | [opgave-06-header](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-06-header) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-05-flere-routes...opgave-06-header) |
+| 5 · Flere beskyttede routes | [opgave-05-flere-routes](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-05-flere-routes) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-04-profil...opgave-05-flere-routes) |
+| 6 · Login-status i headeren | [opgave-06-header](https://github.com/cederdorff/nextjs-supabase-auth/tree/opgave-06-header) | [diff](https://github.com/cederdorff/nextjs-supabase-auth/compare/opgave-05-flere-routes...opgave-06-header) |
 
 Prøv selv først. Brug løsningen, når du sidder fast, eller når du vil sammenligne med din egen.
 
@@ -29,4 +29,4 @@ Prøv selv først. Brug løsningen, når du sidder fast, eller når du vil samme
 - `/signup` – opret en bruger · alle
 - `/login` – log ind · alle
 - `/profile` – e-mail, bruger-id og log ud · kun logget ind
-- `/members` – kun for medlemmer · kun logget ind · ekstra
+- `/members` – kun for medlemmer · kun logget ind
